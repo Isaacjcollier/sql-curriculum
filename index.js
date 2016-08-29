@@ -1,6 +1,7 @@
 module.exports = {
 
   path: './README.md',
+  
 
   sections: [
     {
